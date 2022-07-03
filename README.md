@@ -1,6 +1,8 @@
 # Google-Scholar-Profile-Scrapper
 TO USE->
 
+Open node file on terminal and simply type: 
+
 node project.js --source=<_Enter_URL_>
 
 Example -
