@@ -1,4 +1,12 @@
 # Google-Scholar-Profile-Scrapper
+TO USE->
+
+node project.js --source=<_Enter_URL_>
+
+Example -
+
+node project.js --source=https://scholar.google.co.in/citations?user=GJc8Hz0AAAAJ
+
 ABSTRACT
 
 The program takes the Google Scholar’s profile’s URL as input and creates an
